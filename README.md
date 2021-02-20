@@ -1,7 +1,5 @@
 # Unit Testing with Spring, JUnit and Mockito
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Unit-Testing-with-Spring-Boot-Mockito.png "Master Java Unit Testing with Spring Boot & Mockito")](https://www.udemy.com/course/learn-unit-testing-with-spring-boot/)
-
 ## Learn Unit Testing with most popular frameworks - Spring Boot, JUnit and Mockito
 
 Spring Boot is the most popular framework to develop RESTful Services. It has awesome unit testing capabilities through Spring Boot Starter Test. Mockito is the most popular mocking framework. JUnit is most popular Java Unit Testing Framework.
